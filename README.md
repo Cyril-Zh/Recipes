@@ -1,3 +1,4 @@
 # Recipes
 Поможет придумать, что приготовить из продуктов которые есть в холодильнике. Ищите рецепты в соответствии с нужными вам ингредиентами. Сохраняйте ваши любимые рецепты, чтобы они всегда были у вас.
-[Image alt](https://github.com/Cyril-Zh/Recipes/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-12%20at%2016.45.12.png)
+
+![Image alt](https://github.com/Cyril-Zh/Recipes/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-12%20at%2016.45.12.png)
